@@ -1,5 +1,5 @@
 {
     "type":"greeting",
     "data":"Hello",
-    "keywords":["greeting","greet"]
+    "triggerWords":["greeting","greet","say hello","hello"]
 }

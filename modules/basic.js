@@ -1,6 +1,8 @@
 //String Similarity function
 String.prototype.similarTo=function(text){
-    console.log('DEVS: fix return values')
+    console.log("This function is still in development! Sorry!")
+    console.log('DEVS: fix similarities comparison value. Problem is under \/\/FIX')
+    process.exit()
     //Similarities counter
     var sim=0
 
@@ -12,6 +14,7 @@ String.prototype.similarTo=function(text){
     var current=string[0]
     
     //Check letters
+    //FIX
     for(let i=0;i<string.length;i++){
         current=string[i]
         for(let i=0;i<textSplt.length;i++){
