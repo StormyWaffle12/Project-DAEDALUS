@@ -1,0 +1,23 @@
+{
+  "name": "daedalus",
+  "version": "1.0.0",
+  "description": "a sentient ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaffleChicken86/Project-DAEDAUS.git"
+  },
+  "author": "wafflechicken86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaffleChicken86/Project-DAEDAUS/issues"
+  },
+  "homepage": "https://github.com/WaffleChicken86/Project-DAEDAUS#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt-async": "^0.9.9"
+  }
+}
