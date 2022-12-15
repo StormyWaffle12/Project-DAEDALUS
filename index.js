@@ -11,10 +11,12 @@ const memory = fs.readdir("./memory", (err, files) => {
 
 var daedalus = {
     "update": function () {
-        if(input!='.exit'){
+        console.clear()
+        console.log(me.name)
+        var input=prompt(">> ")
+        if(input='.exit()'){
             console.clear()
-            console.log(me.name)
-            var input=prompt(">> ")
+            process.exit()
         }
     }
 }
