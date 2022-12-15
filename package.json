@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/WaffleChicken86/Project-DAEDAUS#readme",
   "dependencies": {
+    "async-prompt": "^1.0.1",
     "fs": "^0.0.1-security",
-    "prompt-async": "^0.9.9"
+    "prompt-async": "^0.9.9",
+    "prompt-sync": "^4.2.0"
   }
 }
