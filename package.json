@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/WaffleChicken86/Project-DAEDAUS.git"
   },
-  "author": "wafflechicken86",
+  "author": "WaffleChicken86",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WaffleChicken86/Project-DAEDAUS/issues"
+    "url": "https://github.com/WaffleChicken86/Project-DAEDALUS/issues"
   },
-  "homepage": "https://github.com/WaffleChicken86/Project-DAEDAUS#readme",
+  "homepage": "https://github.com/WaffleChicken86/Project-DAEDALUS#readme",
   "dependencies": {
     "async-prompt": "^1.0.1",
     "fs": "^0.0.1-security",
